@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -4759463312914237762, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: 7066788938700431373, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: 1071181002608582349, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: 2790300590869617186, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: 2266623904036599512, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: 2727086746458607360, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: -934321107680181098, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: -161241406203639678, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: -3826141196605005072, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: -4752417237119838347, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: -7028402426150747257, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: 3914795147732109213, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: 3564478100762328349, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: -4270926438765606345, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: 7694224154592454805, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: -7817710475926471563, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: -7763788838878859299, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: -5785857229047980075, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: 6848397472626031763, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: -1542363707909670340, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: -8344211308085055768, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: 687796262806188120, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: -6864251325853166434, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: -2255286126747394299, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: 8186613664259694039, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: -8306272362440450540, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: -6462136820074817052, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: 7456012281852212598, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: 6647130078773998581, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  - {fileID: 7593970079853464551, guid: a3becb4169854154c8c59f1f5bef69ce, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Pebbles_07
+  - Pebbles_14
+  - Pebbles_06
+  - Pebbles_15
+  - Pebbles_01
+  - Pebbles_03
+  - Pebbles_02
+  - PBrick_14
+  - PBrick_10
+  - PBrick_11
+  - PBrick_12
+  - PBrick_13
+  - PBrick_5
+  - PBrick_4
+  - PBrick_7
+  - PBrick_6
+  - PBrick_1
+  - PBrick_0
+  - PBrick_3
+  - PBrick_2
+  - PBrick_9
+  - PBrick_8
+  - Pebbles_09
+  - Pebbles_12
+  - Pebbles_08
+  - Pebbles_13
+  - Pebbles_10
+  - Pebbles_11
+  - Pebbles_05
+  - Pebbles_04
+  m_RenderDataMap: {}
+  m_Tag: Sprite Atlas
+  m_IsVariant: 0
